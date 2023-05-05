@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnydappz&show_icons=true&theme=radical) ![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/37016326/236577069-1466104f-7f3b-45b3-9fc3-4ba70cca84e3.png)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnydappz&show_icons=true&theme=radical) ![microsoft-certified-azure-fundamentals (1)](https://user-images.githubusercontent.com/37016326/236577173-5cf5274f-61c8-47e7-a215-ec9e52dd32ad.png)
