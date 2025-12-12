@@ -32,22 +32,23 @@ Sou apaixonado por aprendizado contínuo e pela construção de ambientes escal�
 # 🏆 Certificações
 
 ## 🌩️ **AWS – Certificações Oficiais**
-
+<div align="center"
 <a href="https://www.credly.com/badges/da2a0838-0803-4a81-9b24-d54af8d786be/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Solutions Architect Associate" />
 </a>
 <a href="https://www.credly.com/badges/9be9df2e-8431-4f4c-8550-2bb9251151a0/public_url" target="_blank">
   <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner" />
 </a>
+</div>
 
 ---
 
 ## 🟠 **AWS Cloud Quest – Trilhas Concluídas**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/37016326/236577798-ff7910eb-f349-4862-9bdc-6b9d2cb02723.png" width="150" alt="Docker Essentials" />
-  <img src="https://user-images.githubusercontent.com/37016326/236578065-37317a04-9a7b-4707-9935-de8165a7ac67.png" width="150" alt="AWS Cloud Quest Practitioner" />
-  <img src="https://user-images.githubusercontent.com/37016326/236577958-540dad0f-6d80-4141-8df6-174a3e69e352.png" width="150" alt="AWS Cloud Practitioner Certification" />
+  <img src="https://images.credly.com/size/340x340/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob" width="150" alt="AWS Cloud Quest: Solutions Architect - Training Badge" />
+  <img src="https://images.credly.com/size/340x340/images/9246c572-2b5e-4b3a-9fae-e87b3c1bf681/blob" width="150" alt="AWS Cloud Quest: Serverless Developer - Training Badge" />
+  <img src="https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="150" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" />
 </div>
 
 ---
@@ -55,15 +56,17 @@ Sou apaixonado por aprendizado contínuo e pela construção de ambientes escal�
 ## 🔵 **Microsoft**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/37016326/236578454-d8a2944f-1a10-45d0-8289-5373c4485370.png" width="150" alt="Azure Fundamentals" />
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150" alt="Microsoft Certified: Azure Fundamentals" />
 </div>
 
 ---
 
-## 🔐 **Segurança – ISC²**
+## 🔐 **Databricks Fundamentals**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/37016326/236578594-a6198910-d510-4eb1-a469-24d6156412ef.png" width="150" alt="ISC2 Candidate" />
+<a href="https://credentials.databricks.com/d7d78b6a-f349-46fd-adc7-b52f6acf8e8d#acc.uMhS8jTn" target="_blank">
+  <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQGksAGPtwMD5w/articleshare-shrink_1280_800/B4DZjud3e4IEAU-/0/1758826744652?e=1766152800&v=beta&t=ZmW_SR05ihlDSl8RuPRRUSBXg1ZJe0hrrfIifz_cA3M" width="150" alt="Academy Accreditation - Databricks Fundamentals" />
+</a>
 </div>
 
 ---
