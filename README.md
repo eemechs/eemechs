@@ -31,47 +31,37 @@ Sou apaixonado por aprendizado contínuo e pela construção de ambientes escal�
 
 # 🏆 Certificações
 
-## 🌩️ **AWS – Certificações oficiais**
+## 🌩️ **AWS – Certificações Oficiais**
+
+### 🟦 AWS Solutions Architect – Associate  
 <a href="https://www.credly.com/badges/da2a0838-0803-4a81-9b24-d54af8d786be/public_url" target="_blank">
   <img src="https://github.com/user-attachments/assets/4a7b30dc-2538-4e58-ac0f-50aa459a3e52" width="150" alt="AWS Solutions Architect Associate" />
 </a>
 
 ---
 
-## 🟠 **AWS Cloud Quest – Trilhas concluídas**
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/7d916f54-9fff-4f5a-9af0-8f91cbfa27ad" width="150" alt="Cloud Practitioner Quest" />
-  <img src="https://github.com/user-attachments/assets/fd68300a-8044-4b44-bd3e-e02d4be01c70" width="150" alt="Solutions Architect Quest" />
-  <img src="https://github.com/user-attachments/assets/b47bb679-c26b-4b2d-b2b9-84a39df1c3c2" width="150" alt="Serverless Developer Quest" />
-</div>
+## 🟠 **AWS Cloud Quest – Trilhas Concluídas**
 
----
-
-## 🎓 **AWS Educate**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ab59ef6d-8ebc-48a3-9e34-7f323f6b16b4" width="150" alt="Machine Learning Foundations" />
-  <img src="https://github.com/user-attachments/assets/ef6a2af0-1bc0-4c3b-badf-d0660fdcf340" width="150" alt="Introduction to Generative AI" />
+  <img src="https://user-images.githubusercontent.com/37016326/236577798-ff7910eb-f349-4862-9bdc-6b9d2cb02723.png" width="150" alt="Docker Essentials" />
+  <img src="https://user-images.githubusercontent.com/37016326/236578065-37317a04-9a7b-4707-9935-de8165a7ac67.png" width="150" alt="AWS Cloud Quest Practitioner" />
+  <img src="https://user-images.githubusercontent.com/37016326/236577958-540dad0f-6d80-4141-8df6-174a3e69e352.png" width="150" alt="AWS Cloud Practitioner Certification" />
 </div>
 
 ---
 
 ## 🔵 **Microsoft**
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/10962dfa-f1a0-4c02-973f-95f6cdfc0199" width="150" alt="Azure Fundamentals" />
+  <img src="https://user-images.githubusercontent.com/37016326/236578454-d8a2944f-1a10-45d0-8289-5373c4485370.png" width="150" alt="Azure Fundamentals" />
 </div>
 
 ---
 
-## 🔷 **Databricks**
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/683c33d1-71ef-4ad0-a4fd-2dc84d10f7a6" width="150" alt="Databricks Fundamentals" />
-</div>
+## 🔐 **Segurança – ISC²**
 
----
-
-## 🔶 **GitOps (Argo CD – Codefresh)**
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8f52755e-d03c-46c8-9a19-a5d1b4ad67f0" width="150" alt="GitOps Fundamentals" />
+  <img src="https://user-images.githubusercontent.com/37016326/236578594-a6198910-d510-4eb1-a469-24d6156412ef.png" width="150" alt="ISC2 Candidate" />
 </div>
 
 ---
