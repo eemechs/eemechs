@@ -61,16 +61,6 @@ Sou apaixonado por aprendizado contínuo e pela construção de ambientes escal�
 
 ---
 
-## 🔐 **Databricks Fundamentals**
-
-<div align="center">
-<a href="https://credentials.databricks.com/d7d78b6a-f349-46fd-adc7-b52f6acf8e8d#acc.uMhS8jTn" target="_blank">
-  <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQGksAGPtwMD5w/articleshare-shrink_1280_800/B4DZjud3e4IEAU-/0/1758826744652?e=1766152800&v=beta&t=ZmW_SR05ihlDSl8RuPRRUSBXg1ZJe0hrrfIifz_cA3M" width="150" alt="Academy Accreditation - Databricks Fundamentals" />
-</a>
-</div>
-
----
-
 # 📊 GitHub Stats
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=eemechs&show_icons=true&theme=radical)
