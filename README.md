@@ -33,50 +33,46 @@ Sou apaixonado por aprendizado contínuo e pela construção de ambientes escal�
 
 ## 🌩️ **AWS – Certificações oficiais**
 <div align="center">
-  <a href="https://www.credly.com/badges" target="_blank">
-    <img src="https://images.credly.com/images/0e3e2f3f-3e7a-4a7f-a05f-d2bd524f5d66/blob.png" width="150" alt="AWS Certified Cloud Practitioner" />
-  </a>
-  <a href="https://www.credly.com/badges" target="_blank">
-    <img src="https://images.credly.com/images/0a8e4a40-df12-4f89-9b34-6e4a48c37b4d/blob.png" width="150" alt="AWS Solutions Architect Associate" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/0b56adf3-5b52-46b0-8a3e-66f57b0e9f9c" width="150" alt="AWS Certified Cloud Practitioner" />
+  <img src="https://github.com/user-attachments/assets/4a7b30dc-2538-4e58-ac0f-50aa459a3e52" width="150" alt="AWS Solutions Architect Associate" />
 </div>
 
 ---
 
 ## 🟠 **AWS Cloud Quest – Trilhas concluídas**
 <div align="center">
-  <img src="https://images.credly.com/images/abf7e7c3-9fd8-4c5e-89ef-6f8e1e77f8cc/blob.png" width="150" alt="Cloud Practitioner Quest" />
-  <img src="https://images.credly.com/images/0a8e4a40-df12-4f89-9b34-6e4a48c37b4d/blob.png" width="150" alt="Solutions Architect Quest" />
-  <img src="https://images.credly.com/images/0fae94c3-dfdf-42a6-a3bc-66f6d8abf9ca/blob.png" width="150" alt="Serverless Developer Quest" />
+  <img src="https://github.com/user-attachments/assets/7d916f54-9fff-4f5a-9af0-8f91cbfa27ad" width="150" alt="Cloud Practitioner Quest" />
+  <img src="https://github.com/user-attachments/assets/fd68300a-8044-4b44-bd3e-e02d4be01c70" width="150" alt="Solutions Architect Quest" />
+  <img src="https://github.com/user-attachments/assets/b47bb679-c26b-4b2d-b2b9-84a39df1c3c2" width="150" alt="Serverless Developer Quest" />
 </div>
 
 ---
 
 ## 🎓 **AWS Educate**
 <div align="center">
-  <img src="https://images.credly.com/images/5e8cc63a-3a32-4fdc-9410-2b3c7c072a08/blob.png" width="150" alt="Machine Learning Foundations" />
-  <img src="https://images.credly.com/images/c5b9e3f2-8e3f-4c3e-9e57-33134f2b90d7/blob.png" width="150" alt="Introduction to Generative AI" />
+  <img src="https://github.com/user-attachments/assets/ab59ef6d-8ebc-48a3-9e34-7f323f6b16b4" width="150" alt="Machine Learning Foundations" />
+  <img src="https://github.com/user-attachments/assets/ef6a2af0-1bc0-4c3b-badf-d0660fdcf340" width="150" alt="Introduction to Generative AI" />
 </div>
 
 ---
 
 ## 🔵 **Microsoft**
 <div align="center">
-  <img src="https://images.credly.com/images/6339636d-0e10-4a2b-8f00-0487f98bcd4c/blob.png" width="150" alt="Azure Fundamentals" />
+  <img src="https://github.com/user-attachments/assets/10962dfa-f1a0-4c02-973f-95f6cdfc0199" width="150" alt="Azure Fundamentals" />
 </div>
 
 ---
 
 ## 🔷 **Databricks**
 <div align="center">
-  <img src="https://images.credly.com/images/ebf6d0e1-db0e-4dd3-a5a6-c348cec8d8c3/blob.png" width="150" alt="Databricks Fundamentals" />
+  <img src="https://github.com/user-attachments/assets/683c33d1-71ef-4ad0-a4fd-2dc84d10f7a6" width="150" alt="Databricks Fundamentals" />
 </div>
 
 ---
 
 ## 🔶 **GitOps (Argo CD – Codefresh)**
 <div align="center">
-  <img src="https://images.credly.com/images/5e053e8c-3efb-4ae9-9e36-e0f5afbd6f66/blob.png" width="150" alt="GitOps Fundamentals" />
+  <img src="https://github.com/user-attachments/assets/8f52755e-d03c-46c8-9a19-a5d1b4ad67f0" width="150" alt="GitOps Fundamentals" />
 </div>
 
 ---
