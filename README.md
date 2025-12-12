@@ -33,9 +33,11 @@ Sou apaixonado por aprendizado contínuo e pela construção de ambientes escal�
 
 ## 🌩️ **AWS – Certificações Oficiais**
 
-### 🟦 AWS Solutions Architect – Associate  
 <a href="https://www.credly.com/badges/da2a0838-0803-4a81-9b24-d54af8d786be/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Solutions Architect Associate" />
+</a>
+<a href="https://www.credly.com/badges/9be9df2e-8431-4f4c-8550-2bb9251151a0/public_url" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner" />
 </a>
 
 ---
