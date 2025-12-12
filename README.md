@@ -35,7 +35,7 @@ Sou apaixonado por aprendizado contínuo e pela construção de ambientes escal�
 
 ### 🟦 AWS Solutions Architect – Associate  
 <a href="https://www.credly.com/badges/da2a0838-0803-4a81-9b24-d54af8d786be/public_url" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4a7b30dc-2538-4e58-ac0f-50aa459a3e52" width="150" alt="AWS Solutions Architect Associate" />
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Solutions Architect Associate" />
 </a>
 
 ---
